@@ -67,3 +67,5 @@ function safety_algorithm {
         echo "System is in an unsafe state"
     fi
 }
+
+safety_algorithm
